@@ -4,7 +4,9 @@
 
 A little tool for IVUS review and label. Lab use only, .npy file support only.
 
-## Function: A tool for IVUS images review. It helps to read the images, and label the images, the result will be saved in to a .xlsx file in the root of Disk D: . How ever it only support .npy file, because it is for the certain user in our lab.
+## Function: A tool for IVUS images review. It helps to read the images, and label the images, the result will be saved in to a .xlsx file in the root of Disk D: . However it only support “.npy” file, because it is for the certain user in our lab.
+
+## Any requirement will be meeted !
 
 
 
@@ -12,4 +14,4 @@ A little tool for IVUS review and label. Lab use only, .npy file support only.
 
 ## Author: 黄biubiu
 ## Email: bill4278@foxmail.com
-## Welcome to all communication !
+## Welcome to all communications !
